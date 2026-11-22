@@ -326,7 +326,7 @@ Newly registered users are assigned the Employee role by default, if configured 
 
 ---
 
-## Contributors
+## 👩‍💻 Contributors
 This project was collaboratively developed by:
 
 **Najiya Gulam Shaikh**
