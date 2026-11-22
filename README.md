@@ -227,7 +227,7 @@ Install the following before running the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yashashree2025/Employee-Leave-Management-Portal.git
+git clone https://github.com/najiya2906-code/Employee-Leave-Management-Portal.git
 cd Employee-Leave-Management-Portal
 ```
 
@@ -326,16 +326,15 @@ Newly registered users are assigned the Employee role by default, if configured 
 
 ---
 
-## 👩‍💻 Developer
+## Contributors
+This project was collaboratively developed by:
+
+**Najiya Gulam Shaikh**
+
+GitHub: https://github.com/najiya2906-code
 
 **Yashashree Parte**
 
-GitHub: [yashashree2025](https://github.com/yashashree2025)
+GitHub: https://github.com/yashashree2025
 
-LinkedIn: [Yashashree Parte](https://www.linkedin.com/in/yashashreeparte/)
-
----
-
-## 📄 License
-
-This project is developed for educational purposes.
+Both contributors collaborated on the design, development, and implementation of this project.
